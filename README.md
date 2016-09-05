@@ -1,4 +1,7 @@
-# Learn Rust Programming Lang
+[category-badge]: https://img.shields.io/badge/Category-Learn-green.svg?style=flat-square
+[category-link]:  http://example.com
+
+# Learn Rust Programming Lang [![Category Badge][category-badge]][category-link]
 
 :mortar_board: To learn Rust Programming Lang
 
