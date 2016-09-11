@@ -1,7 +1,8 @@
 [category-badge]: https://img.shields.io/badge/Category-Learn-green.svg?style=flat-square
 [category-link]:  https://github.com/search?utf8=%E2%9C%93&q=learn%2Buser%3Asandbox-development&type=Repositories&ref=advsearch&l=&l=
+[![Category Badge][category-badge]][category-link]
 
-# Learn Rust Programming Lang [![Category Badge][category-badge]][category-link]
+# Learn Rust Programming Lang
 
 :mortar_board: To learn Rust Programming Lang
 
