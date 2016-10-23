@@ -5,21 +5,26 @@
 
 [![Category Badge][category-badge]][category-link]
 
->:mortar_board: To learn Rust Programming Lang. It is written in Japanese. Rust 学習のためのレポジトリです。自分は普段から Node.js を触っているので [Rust for Node developers](https://github.com/Mercateo/rust-for-node-developers) のように Node.js と比較しながら説明まとめています。
+>:mortar_board: To learn Rust Programming Lang. It is written in Japanese. Rust 学習のためのレポジトリです。自分は普段から Node.js を触っているので [Rust for Node developers](https://github.com/Mercateo/rust-for-node-developers) のように Node.js と比較しながらまとめています。
 
 
 言語バージョン管理ツール：
 
 | Rust | Node.js |
-|:---- |:------- |
-|rustup | nodebrew |
-|multirust | nvm |
+| ----- | ------- |
+| rustup | nodebrew |
+| multirust | nvm |
 
 パッケージマネージャー：
 
 | Rust | Node.js |
-|:---- |:------- |
-| Carbon | NPM   |
+| ---- | ------- |
+| Cargo | NPM   |
+
+|    | Rust | Node.js |
+| -- | ---- | ------- | 
+| 初期化 | cargo init | cargo init |
+| インストール | cargo install | npm install
 
 ## 参照
 
