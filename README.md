@@ -21,8 +21,8 @@
 | ---- | ------- |
 | Cargo | NPM   |
 
-|    | Rust | Node.js |
-| -- | ---- | ------- | 
+|     | Rust | Node.js |
+| --- | ---- | ------- | 
 | 初期化 | cargo init | cargo init |
 | インストール | cargo install | npm install
 
