@@ -1,12 +1,27 @@
 [category-badge]: https://img.shields.io/badge/Category-Learn-green.svg?style=flat-square
 [category-link]:  https://github.com/search?utf8=%E2%9C%93&q=learn%2Buser%3Asandbox-development&type=Repositories&ref=advsearch&l=&l=
-[![Category Badge][category-badge]][category-link]
 
 # Learn Rust Programming Lang
 
-:mortar_board: To learn Rust Programming Lang
+[![Category Badge][category-badge]][category-link]
 
-## References
+>:mortar_board: To learn Rust Programming Lang. It is written in Japanese. Rust 学習のためのレポジトリです。自分は普段から Node.js を触っているので [Rust for Node developers](https://github.com/Mercateo/rust-for-node-developers) のように Node.js と比較しながら説明まとめています。
+
+
+言語バージョン管理ツール：
+
+| Rust | Node.js |
+|:---- |:------- |
+|rustup | nodebrew |
+|multirust | nvm |
+
+パッケージマネージャー：
+
+| Rust | Node.js |
+|:---- |:------- |
+| Carbon | NPM   |
+
+## 参照
 
 * [Rust Official Website](https://www.rust-lang.org/en-US/)
 * [The Rust Programming Language Blog](https://blog.rust-lang.org/)
